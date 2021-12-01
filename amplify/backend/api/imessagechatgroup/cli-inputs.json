@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "imessagechatgroup",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "/Users/azulle/Library/Mobile Documents/com~apple~CloudDocs/Documents/iMessageWebClient2021/amplify/backend/api/imessagechatgroup/schema.graphql",
+    "defaultAuthType": {
+      "mode": "API_KEY",
+      "expirationTime": 7
+    }
+  }
+}
