@@ -5,7 +5,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <p>
-          Welcome to Weedbus
+          weedb.us
         </p>
       </header>
     </div>
